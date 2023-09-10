@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">105463674131-44alu05g2rolbrneabat78dccgejlh5u.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">105463674131</string>
+    <string name="google_api_key" translatable="false">AIzaSyDmE9Yr3c7FVh8XQswp6seljDFRx11rFEs</string>
+    <string name="google_app_id" translatable="false">1:105463674131:android:ac2320e826b808e8b596e6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDmE9Yr3c7FVh8XQswp6seljDFRx11rFEs</string>
+    <string name="google_storage_bucket" translatable="false">chitchat2-0.appspot.com</string>
+    <string name="project_id" translatable="false">chitchat2-0</string>
+</resources>
